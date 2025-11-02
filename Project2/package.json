@@ -1,0 +1,14 @@
+{
+  "name": "recipe-crud-app",
+  "version": "1.0.0",
+  "description": "Simple CRUD application for recipes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {},
+  "keywords": ["crud", "recipes", "nodejs"],
+  "author": "Your Name",
+  "license": "MIT"
+}
